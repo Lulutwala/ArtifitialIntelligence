@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Documents\semester 4\AI\AI Project Solution\AI Project Solution\bin\Debug\AI Project Solution.exe.config
+C:\Users\Lenovo\Documents\semester 4\AI\AI Project Solution\AI Project Solution\bin\Debug\AI Project Solution.exe
+C:\Users\Lenovo\Documents\semester 4\AI\AI Project Solution\AI Project Solution\bin\Debug\AI Project Solution.pdb
+C:\Users\Lenovo\Documents\semester 4\AI\AI Project Solution\AI Project Solution\bin\Debug\Core.dll
+C:\Users\Lenovo\Documents\semester 4\AI\AI Project Solution\AI Project Solution\bin\Debug\Core.pdb
+C:\Users\Lenovo\Documents\semester 4\AI\AI Project Solution\AI Project Solution\obj\Debug\AI Project Solution.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\semester 4\AI\AI Project Solution\AI Project Solution\obj\Debug\AI Project Solution.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Documents\semester 4\AI\AI Project Solution\AI Project Solution\obj\Debug\AI Project Solution.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\semester 4\AI\AI Project Solution\AI Project Solution\obj\Debug\AI Project Solution.csproj.CopyComplete
+C:\Users\Lenovo\Documents\semester 4\AI\AI Project Solution\AI Project Solution\obj\Debug\AI Project Solution.exe
+C:\Users\Lenovo\Documents\semester 4\AI\AI Project Solution\AI Project Solution\obj\Debug\AI Project Solution.pdb
